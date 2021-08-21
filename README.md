@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lauren Groh!
 - 👀 I like to solve problems and I’m interested in finding ways to build the ideas that are in my head.
 - 💞️ I taught myself HTML and CSS using free online resources.
-- 🌱 I’m currently learning JavaScript & I'll be starting a full stack coding bootcamp in August of 2021.
+- 🌱 I’m currently learning JavaScript & I just started a full stack coding bootcamp (Aug 2021).
 - 📫 Find me on Twitter or CodePen: @GrohTech. 
 
 <!---
