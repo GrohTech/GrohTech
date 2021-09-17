@@ -11,15 +11,13 @@
 
 ## TECHNOLOGIES I USE
 ---------------------
-
 * HTML
 * CSS
 * JavaScript
 * Git
 
 ## CAREER UPDATES
-----------
-
+-----------------
 ### 08.2021 - Started University of Wisconsin Exdended Campus Coding Bootcamp
 * Check out my repositories to see what I've been working on
 
