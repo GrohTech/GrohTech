@@ -24,6 +24,7 @@
 * Check out my repositories to see what I've been working on
 
 **02.2019 - Started working at University of Wiscnosin-Milwaukee
+
 Because of the experience with WordPress, I was tasked with (stay with me, as the responsibilities build):
   1. Mainting my department's WordPress website
   2. Creating and maintaining a new WordPress website for our division
