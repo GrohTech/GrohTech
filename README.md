@@ -25,11 +25,11 @@
 
 **02.2019 - Started working at University of Wiscnosin-Milwaukee
 * Because of the experience with WordPress, I was tasked with (stay with me, as the responsibilities build):
-  1. Mainting my department's WordPress website
-  2. Creating and maintaining a new WordPress website for our division
-  3. Doing a massive update on an existing static site, which is the portal to software used by everyone on campus:
-    * Updated hundreds of files with a new style and a more concise message
-    * Cleaned existing HTML/CSS files
+    - Mainting my department's WordPress website
+    - Creating and maintaining a new WordPress website for our division
+    - Doing a massive update on an existing static site, which is the portal to software used by everyone on campus:
+     * Updated hundreds of files with a new style and a more concise message
+     * Cleaned existing HTML/CSS files
 
 **2015 - Created my first WordPress Site**
 * No coding involved, but I learned about:
@@ -42,6 +42,6 @@
 --------------
 **Current Maintainers**
 1. Lauren Groh
-  * [LinkedIn](https://www.linkedin.com/in/legroh/ "LinkedIn Profile")
-  * [CodePen](https://codepen.io/GrohTech "CodePen Profile")
-  * [Twitter](https://twitter.com/GrohTech "Twitter Profile") 
+    * [LinkedIn](https://www.linkedin.com/in/legroh/ "LinkedIn Profile")
+    * [CodePen](https://codepen.io/GrohTech "CodePen Profile")
+    * [Twitter](https://twitter.com/GrohTech "Twitter Profile") 
