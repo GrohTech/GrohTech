@@ -22,10 +22,10 @@
 * Git
 
 ## CAREER UPDATES
-### 08.2021 - Started University of Wisconsin Exdended Campus Coding Bootcamp
+### 2021 - Started University of Wisconsin Exdended Campus Coding Bootcamp
 * Check out my repositories to see what I've been working on
 
-### 02.2019 - Started working at University of Wisconsin-Milwaukee
+### 2019 - Started working at University of Wisconsin-Milwaukee
 
 Because of the experience with WordPress, I was tasked with (stay with me, as the responsibilities build):
   1. Mainting my department's WordPress website
@@ -41,7 +41,7 @@ Because of the experience with WordPress, I was tasked with (stay with me, as th
   * How to get your site hosted
   * How to move a site from one CMS to another
 
-### 12.2012   
+### 2012   
 Graduated from UW-Milwaukee with a bachelor's degree in Journalism & Mass Communication
 
 ## MAINTAINERS OF MY LIFE
