@@ -1,14 +1,5 @@
 # Lauren Groh
 
-## TABLE OF CONTENTS
---------------------
-
-* Introduction
-* Technologies I use
-* Career Updates
-* Maintainers
-
-
 ## INTRODUCTION
 ---------------
 
