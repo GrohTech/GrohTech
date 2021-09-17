@@ -1,10 +1,10 @@
 # Lauren Groh
 
-👋 Hi, I’m Lauren Groh!
-👀 I like to solve problems and I’m interested in finding ways to build the ideas that are in my head.
-🌱 Currently in a fullstack coding bootcamp (Aug 2021 - Feb 2022)
-&#x1f635;&#x200d;&#x1f4ab; When I'm not burning the candle at both ends (my current state), I can be found outdoor adventuring with my wife and dogs. Depending on the moment, that might mean camping, hiking, biking, rollerblading, etc. I also enjoy being at home, gardening and building stuff with wood.
-📫 Find me, here:
+- 👋 Hi, I’m Lauren Groh!
+- 👀 I like to solve problems and I’m interested in finding ways to build the ideas that are in my head.
+- 🌱 Currently in a fullstack coding bootcamp (Aug 2021 - Feb 2022)
+- &#x1f635;&#x200d;&#x1f4ab; When I'm not burning the candle at both ends (my current state), I can be found outdoor adventuring with my wife and dogs. Depending on the moment, that might mean camping, hiking, biking, rollerblading, etc. I also enjoy being at home, gardening and building stuff with wood.
+- 📫 Find me, here:
    * [LinkedIn](https://www.linkedin.com/in/legroh/ "LinkedIn Profile")
    * [CodePen](https://codepen.io/GrohTech "CodePen Profile")
    * [Twitter](https://twitter.com/GrohTech "Twitter Profile") 
