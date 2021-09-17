@@ -1,6 +1,9 @@
 # I'm Lauren
 
 
+[Flowers](./assets/images/flowers.jpeg "Flowers") 
+
+
 - &#129472;&nbsp; .Midwest.Wisconsin.Milwaukee 
 - &#129513;&nbsp; I like to solve problems and I’m interested in finding ways to build the ideas that are in my head.
 - &#128214;&nbsp; Currently in a fullstack coding bootcamp (Aug 2021 - Feb 2022)
