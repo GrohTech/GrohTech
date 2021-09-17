@@ -41,8 +41,8 @@ Because of the experience with WordPress, I was tasked with (stay with me, as th
   * How to get your site hosted
   * How to move a site from one CMS to another
 
-### 2012   
-Graduated from UW-Milwaukee with a bachelor's degree in Journalism & Mass Communication
+### 2012 - Graduated from college   
+* UW-Milwaukee - Bachelor's degree in Journalism & Mass Communication
 
 ## MAINTAINERS OF MY LIFE
 1. Lauren Groh (and often, my cats)
