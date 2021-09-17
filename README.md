@@ -3,7 +3,7 @@
 
 - &#129472;&nbsp; .Midwest.Wisconsin.Milwaukee 
 - &#129513;&nbsp; I like to solve problems and I’m interested in finding ways to build the ideas that are in my head.
-- 🌱 &nbsp; Currently in a fullstack coding bootcamp (Aug 2021 - Feb 2022)
+- &#128214;&nbsp; Currently in a fullstack coding bootcamp (Aug 2021 - Feb 2022)
 - &#9978; &#65039;&nbsp; When I'm not burning the candle at both ends (my current state), I can be found outdoor adventuring with my wife and dogs. Depending on the moment, that might mean camping, hiking, biking, rollerblading, etc. I also enjoy being at home, gardening and building stuff with wood.
 - &#128269;&nbsp; Find me, here:
    * [LinkedIn](https://www.linkedin.com/in/legroh/ "LinkedIn Profile")
