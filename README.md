@@ -1,20 +1,13 @@
 # Lauren Groh
 
-## INTRODUCTION
----------------
-
 - 👋 Hi, I’m Lauren Groh!
 - 👀 I like to solve problems and I’m interested in finding ways to build the ideas that are in my head.
-- 💞️ I taught myself HTML and CSS using free online resources.
-- 🌱 I’m currently learning JavaScript & I just started a full stack coding bootcamp (Aug 2021).
-- 📫 Find me on Twitter or CodePen: @GrohTech. 
-
-**View the homepage, here:** [Lauren Groh - Portfolio Website](https://grohtech.github.io/ "Lauren Groh - Portfolio Website")
-
-**View website screenshots, here:**
-![Lauren Groh - Portfolio Website - 1](./assets/images/lg-portfolio-screenshot-1.png "Lauren Groh - Portfolio Website - 1")
-![Lauren Groh - Portfolio Website - 2](./assets/images/lg-portfolio-screenshot-2.png "Lauren Groh - Portfolio Website - 2")
-
+- 🌱 Currently in a fullstack coding bootcamp (Aug 2021 - Feb 2022)
+- &#x1f635;&#x200d;&#x1f4ab; When I'm not burning the candle at both ends (current state), I can be found outdoor adventuring with my wife and dogs. Depending on the moment, that might mean camping, hiking, biking, rollerblading, etc. I also enjoy being at home, gardening and building stuff with wood.
+- 📫 Find me, here:
+   * [LinkedIn](https://www.linkedin.com/in/legroh/ "LinkedIn Profile")
+   * [CodePen](https://codepen.io/GrohTech "CodePen Profile")
+   * [Twitter](https://twitter.com/GrohTech "Twitter Profile") 
 
 ## TECHNOLOGIES I USE
 ---------------------
@@ -49,5 +42,6 @@
 --------------
 **Current Maintainers**
 1. Lauren Groh
+  * [LinkedIn](https://www.linkedin.com/in/legroh/ "LinkedIn Profile")
   * [CodePen](https://codepen.io/GrohTech "CodePen Profile")
   * [Twitter](https://twitter.com/GrohTech "Twitter Profile") 
