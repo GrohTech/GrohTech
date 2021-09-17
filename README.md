@@ -20,10 +20,10 @@
 ## CAREER UPDATES
 ----------
 
-**08.2021 - Started University of Wisconsin Exdended Campus Coding Bootcamp**
+### 08.2021 - Started University of Wisconsin Exdended Campus Coding Bootcamp**
 * Check out my repositories to see what I've been working on
 
-**02.2019 - Started working at University of Wiscnosin-Milwaukee
+### 02.2019 - Started working at University of Wiscnosin-Milwaukee
 
 Because of the experience with WordPress, I was tasked with (stay with me, as the responsibilities build):
   1. Mainting my department's WordPress website
