@@ -45,7 +45,7 @@ Because of the experience with WordPress, I was tasked with (stay with me, as th
 Graduated from UW-Milwaukee with a bachelor's degree in Journalism & Mass Communication
 
 ## MAINTAINERS OF MY LIFE
-1. Lauren Groh
+1. Lauren Groh (and often, my cats)
     * [LinkedIn](https://www.linkedin.com/in/legroh/ "LinkedIn Profile")
     * [CodePen](https://codepen.io/GrohTech "CodePen Profile")
     * [Twitter](https://twitter.com/GrohTech "Twitter Profile") 
