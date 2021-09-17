@@ -10,14 +10,12 @@
    * [Twitter](https://twitter.com/GrohTech "Twitter Profile") 
 
 ## TECHNOLOGIES I USE
----------------------
 * HTML
 * CSS
 * JavaScript
 * Git
 
 ## CAREER UPDATES
------------------
 ### 08.2021 - Started University of Wisconsin Exdended Campus Coding Bootcamp
 * Check out my repositories to see what I've been working on
 
@@ -38,8 +36,6 @@ Because of the experience with WordPress, I was tasked with (stay with me, as th
   * How to move a site from one CMS to another    
 
 ## MAINTAINERS
---------------
-**Current Maintainers**
 1. Lauren Groh
     * [LinkedIn](https://www.linkedin.com/in/legroh/ "LinkedIn Profile")
     * [CodePen](https://codepen.io/GrohTech "CodePen Profile")
