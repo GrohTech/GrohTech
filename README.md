@@ -1,9 +1,8 @@
-# I'm Lauren
+# Hi there, I'm Lauren!
 
 ![Flowers](./assets/images/flowers.jpeg "Flowers")
 
-- &#129472;&nbsp; Location.Midwest.Wisconsin.Milwaukee 
-- &#9200; Currently in a fullstack coding bootcamp (Aug 2021 - Feb 2022)
+- &#9200; Fullstack coding bootcamp (Aug 2021 - Feb 2022)
 - &#127803; Things I like: My dogs, my cats, camping, hiking, biking, rollerblading, gardening, and building stuff with wood.
 - &#9889; HTML, CSS, Git, JS, jQuery, moment.js, node.js, inquirer, Jest
 - &#128269;&nbsp; Find me, here:
