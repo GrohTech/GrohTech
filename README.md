@@ -8,4 +8,4 @@
 #### &#8594; Find me, here:<br/>
 **LinkedIn:** [https://www.linkedin.com/in/legroh/](https://www.linkedin.com/in/legroh/ "LinkedIn Profile")<br/> 
 **Twitter:** [https://twitter.com/GrohTech](https://twitter.com/GrohTech "Twitter Profile")<br/>
-**CodePen:** [https://codepen.io/GrohTech](https://codepen.io/GrohTech "CodePen Profile")<br/>
+**Email:** [legroh.groh@gmail.com](legroh.groh@gmail.com "email address")<br/>
