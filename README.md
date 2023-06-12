@@ -10,7 +10,7 @@
 - Kentico Xperience 12/13 MVC 
 - JavaScript, jQuery, HTML, CSS, Bootstrap
 - MongoDB, Express.js, React.js, Node.js, GraphQL, Heroku, Apollo Server Express
-- Familiar with: WordPress, Moment.js, Day.js, MySQL, Mongoose ODM, Inquirer.js, Jest, MaterialUI, JSON Web Token, Bcrypt, Insomnia REST Client
+- **Familiar with:** WordPress, Moment.js, Day.js, MySQL, Mongoose ODM, Inquirer.js, Jest, MaterialUI, JSON Web Token, Bcrypt, Insomnia REST Client
 
  
 #### &#8594; Find me, here:<br/>
