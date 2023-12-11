@@ -1,8 +1,7 @@
 ### Hi all!
 
-- Full stack developer, but working mostly backend
+- Backend developer at Ascedia Inc. since April 2022
 - Full Stack Coding Bootcamp (Aug 2021 - Feb 2022)
-- When I'm not coding, I'm with my family - hiking &amp; camping, gardening, or building stuff with wood.
 
 
 ## Languages & Technologies
@@ -15,5 +14,4 @@
  
 #### &#8594; Find me, here:<br/>
 **LinkedIn:** [https://www.linkedin.com/in/legroh/](https://www.linkedin.com/in/legroh/ "LinkedIn Profile")<br/> 
-**Twitter:** [https://twitter.com/GrohTech](https://twitter.com/GrohTech "Twitter Profile")<br/>
 **Email:** [legroh.groh@gmail.com](legroh.groh@gmail.com "email address")<br/>
