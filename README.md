@@ -1,6 +1,7 @@
 ### Hi all!
 
-- Backend developer at Ascedia Inc. since April 2022
+- Application Developer (backend) at Ascedia Inc. (February 2024 - Current)
+- Associate Application Developer (backend) at Ascedia Inc. (April 2022 - February 2024)
 - Full Stack Coding Bootcamp (Aug 2021 - Feb 2022)
 
 
