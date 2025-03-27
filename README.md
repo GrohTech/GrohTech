@@ -10,6 +10,7 @@ I am an Application Developer at Ascedia Inc., a digital strategy agency based i
 ### 📝 My ongoing studies include
 - Preparing for the Kentico 13 developer exam
 - Working my way through FreeCodeCamp's JavaScript Algorithms and Data Structures Certification course
+- Building an Umbraco 13 proof of concept
 
 ### ⚙️ Skills & Technologies
 - C#, ASP.NET MVC & .NET Core, SQL, Microsoft SQL Server Management Studio
